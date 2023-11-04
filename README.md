@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zionek</h1>
-<h3 align="center">A frontend developer from Poland</h3>
+<h3 align="center">A backend developer from Poland</h3>
 
 - 🔭 I’m currently working on **Tokenify X**
 
