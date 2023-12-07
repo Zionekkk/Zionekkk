@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zionek</h1>
 <h3 align="center">A backend developer from Poland</h3>
 
-- 🔭 I’m currently working on **Tokenify X**
-
-- 👯 I’m looking to collaborate on **Nothing**
-
-- 🤝 I’m looking for help with **Nothing**
+- 🔭 I’m currently working on **Shine ESP**
 
 - 📫 How to reach me **Zionek#0001**
 
