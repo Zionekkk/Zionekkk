@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zionek</h1>
 <h3 align="center">A backend developer from Poland</h3>
 
-- 🔭 I’m currently working on **Serine (Roblox exploit)**
+- 🔭 I’m currently working on **Multiple projects 🤫**
 
 - 📫 How to reach me, on discord **Zionekp**
 
